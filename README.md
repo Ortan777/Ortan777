@@ -22,7 +22,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 ```yaml
 Name: Ayush Shetty
@@ -32,15 +32,15 @@ Location: Karnataka, India
 Focus:
   - Artificial Intelligence
   - Machine Learning
-  - Backend Development
+  - AWS
   - Data Analytics
 
 Currently Working On:
   - Secure AI Sandbox using Docker & FastAPI
 
 Currently Learning:
-  - SQL
-  - System Design
+  - Deep Learning
+  - AWS
   - Data Engineering
 
 Goal:
@@ -49,7 +49,7 @@ Goal:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -76,23 +76,7 @@ Goal:
 
 ---
 
-# 🚀 Featured Projects
-
-- 🔒 **Secure AI Sandbox**
-  - Docker • FastAPI • Zero Trust Security
-
-- 📊 **AI-Powered Predictive System Monitoring**
-  - Python • Scikit-learn • Chart.js
-
-- 📝 **Leave Management System**
-  - Flask • MySQL • SQL
-
-- 🤖 **Real-Time Hand Gesture Control**
-  - OpenCV • MediaPipe • Jetson Nano
-
----
-
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -106,13 +90,12 @@ Goal:
 
 ---
 
-# 🎯 Current Goals
+# Current Goals
 
-- 📚 Strengthening SQL & Data Engineering
-- 🤖 Building production-ready AI applications
-- 🐳 Mastering Docker & FastAPI
-- 💻 Practicing DSA for placements
-- 🌱 Contributing to open-source projects
+-  Strengthening ML & Data Engineering
+-  Building production-ready AI applications
+-  Mastering Docker & FastAPI
+-  Contributing to open-source projects
 
 ---
 
